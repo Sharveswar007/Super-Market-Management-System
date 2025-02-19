@@ -42,8 +42,6 @@ Super-Market-Management-System/
    python supermarket.py
    ```
 
-## 📸 Screenshots
-(Add screenshots of your project interface here)
 
 ## 📝 Project Report
 The full documentation of the project is available in the `documentation/` folder.
