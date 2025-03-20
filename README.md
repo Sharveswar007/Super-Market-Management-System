@@ -31,7 +31,7 @@ Super-Market-Management-System/
 ### Steps to Run the Program
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/Super-Market-Management-System.git
+   git clone https://github.com/Sharveswar007/Super-Market-Management-System.git
    ```
 2. Navigate to the project folder:
    ```sh
