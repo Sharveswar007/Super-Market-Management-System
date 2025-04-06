@@ -1,6 +1,6 @@
 # Super Market Management System
 
-## 📌 Overview
+## 📌 Overview 
 The **Super Market Management System** is a Python-based application designed to efficiently manage grocery store operations, including inventory management, customer transactions, and product tracking. This system helps store managers maintain product stock, process purchases, and update inventory seamlessly.
 
 ## 🎯 Features
